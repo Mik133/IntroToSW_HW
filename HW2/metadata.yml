@@ -1,0 +1,13 @@
+---
+:id: 233512168
+:submitters:
+- :name: טל
+  :email: tal.klein@campus.technion.ac.il
+- :name: מיכאל פופוב
+  :email: mik133@campus.technion.ac.il
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2024-02-23 14:19:21.962198000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2024-02-23 06:19:21.962198000 Z
+:status: processed
